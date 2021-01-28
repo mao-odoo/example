@@ -1,0 +1,4 @@
+[submodule "justhere"]
+	path = justhere
+	url = https://github.com/mao-odoo/example_for_traingng.git
+	branch = main
